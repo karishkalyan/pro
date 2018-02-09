@@ -9,7 +9,7 @@ b=strlen(ch);
 for(i=0;i<b;i++)
 {
 if(a[i]==' ')
-sum=sum=i;
+sum=sum+1;
 }
 printf("\n the no of spaces is %d",sum);
 getch();
